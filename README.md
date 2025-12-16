@@ -17,7 +17,7 @@ This repository contains screenshots of a PCB design created as part of my learn
 ## Screenshots
 
 ### Schematic
-![Schematic]()
+![schematic.png.png]()
 
 ### PCB Layout
 ![Top Layer](PCB_Layout/top_layer.png)
