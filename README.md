@@ -21,7 +21,7 @@ This repository contains screenshots of a PCB design created as part of my learn
 
 ### PCB Layout
 ![Top Layer](pcb_top_layer.png.png)
-![Bottom Layer](PCB_Layout/bottom_layer.png)
+![Bottom Layer](pcb_bottom_layer.png.png)
 
 ### 3D View
 ![3D PCB](3D_View/pcb_3d.png)
