@@ -1,2 +1,30 @@
 # 555-Timer-Chromatic-Scale-PCB
-This repository contains screenshots of a PCB design created as part of my learning in electronics and PCB design. Features 555 timer based frequency generation, power regulation, basic audio output, and a C4–B4 chromatic scale. Includes schematic, PCB layout (top &amp; bottom), and 3D render. Gerber files are not included due to export limits. 
+# 555 Timer Based C4 Chromatic Scale PCB
+
+This repository contains screenshots of a PCB design created as part of my learning in electronics and PCB design.
+
+## Overview
+- 555 timer based frequency generation
+- Power regulation and basic audio output stage
+- Multi-key chromatic scale (C4–B4)
+- Focus on PCB layout and routing practices
+
+## Contents
+- Schematic screenshots
+- PCB layout views (top & bottom)
+- 3D PCB render
+
+## Screenshots
+
+### Schematic
+![Schematic]()
+
+### PCB Layout
+![Top Layer](PCB_Layout/top_layer.png)
+![Bottom Layer](PCB_Layout/bottom_layer.png)
+
+### 3D View
+![3D PCB](3D_View/pcb_3d.png)
+
+## Note
+Gerber files are not included due to export permission limitations in the design software.
